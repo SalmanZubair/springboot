@@ -1,4 +1,4 @@
-package io.javabrains.courseapi;
+/*package io.javabrains.courseapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -11,3 +11,4 @@ class CourseApiApplicationTests {
 	}
 
 }
+*/
