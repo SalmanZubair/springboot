@@ -1,0 +1,17 @@
+
+*.png
+*.xml
+*.tree
+*.snap
+*.resources
+*.launch
+*.prefs
+*.launch
+*.index
+*.history
+*.del
+*.ser
+*.cfs
+*.container
+*.lifecyclemapping
+*.txt
